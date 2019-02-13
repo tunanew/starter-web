@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 <<<<<<< HEAD
 ## this is git project which we are using as sample project
-## new line in master branc 
+## new 123
 =======
 ## this is git project which we are using as sample projectjj
 >>>>>>> mybranch12
